@@ -1,0 +1,43 @@
+/* CSS STYLE */
+
+body {
+  background-color: black;
+  text-align: center;
+  color: aliceblue;
+  font-family: 'Sofia Sans', sans-serif;
+  display: inline;
+  
+
+}
+
+#tittle {
+  border-style: solid;
+  border-color: rgb(49, 59, 59);
+  font-size: 1.2em;
+  margin-top: 1em;
+  margin-bottom: .8em;
+  background-color: rgb(82, 88, 88);
+  }
+
+  .h2 {
+    margin: 1em;  
+  }
+
+  .p {
+    opacity: 90%;
+    margin: 1.3em;    
+  }
+
+#footer {
+  border-style: solid;
+  border-color: rgb(49, 59, 59);
+  background-color: rgb(82, 88, 88);
+  margin-top: 12em;
+  margin-bottom: auto;
+}
+  
+
+#class-vs-id {
+  margin-top: 5em;
+  margin-bottom: auto;
+  }
